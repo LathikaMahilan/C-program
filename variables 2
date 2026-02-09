@@ -1,0 +1,14 @@
+
+#include <stdio.h>
+
+int main()
+{
+    int a;
+    a=5;
+    int b;
+    b=15;
+    printf("%d ",a);
+    printf("%d",b);
+    
+    return 0;
+}
